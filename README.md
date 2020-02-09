@@ -1,5 +1,5 @@
 # Minecraft
-
+[![Run on Repl.it](https://repl.it/badge/github/UzayAnil/Minecraft)](https://repl.it/github/UzayAnil/Minecraft)
 Simple Minecraft-inspired demo written in Python and Pyglet.
 
 http://www.youtube.com/watch?v=kC3lwK631X8
